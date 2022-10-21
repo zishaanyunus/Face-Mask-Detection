@@ -8,3 +8,5 @@ Azure services used :
 
 1.Custom Vision
 2.Static Web Apps
+
+demo.png
